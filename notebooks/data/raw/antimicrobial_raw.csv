@@ -1,0 +1,212 @@
+DOI ,YEAR,MATERIAL,PRECURSOR,Synthesis_Method,Size_nm,Plant Extract Type,More about Plant Extract Type,Bacterial Strain,Inhibition Zone (mm),MIC(ug/ml),MBC,ROS Generation,Gram Status,Resistant Strain ,Resistant Type,IZ_Censored
+10.1016/j.carbon.2021.10.020,2021,Carbon NPs,Carbon source,Hydrothermal,7,None,,S. aureus ,20,0.125,,Yes,Gram-positive,No,,
+10.1016/j.carbon.2021.10.020,2021,Carbon NPs,Carbon source,Hydrothermal,7,None,,Other,20,0.5,,Yes,Gram-positive,No,,
+10.1016/j.carbon.2021.10.020,2021,Carbon NPs,Carbon source,Hydrothermal,7,None,,Other,20,0.5,,Yes,Gram-positive,No,,
+10.1016/j.carbon.2021.10.020,2021,Carbon NPs,Carbon source,Hydrothermal,7,None,,Other,20,0.5,,Yes,Gram-positive,No,,
+10.1016/j.carbon.2021.10.020,2021,Carbon NPs,Carbon source,Hydrothermal,7,None,,Other,20,0.25,,Yes,Gram-positive,Yes,MRSA,
+10.1016/j.carbon.2021.10.020,2021,Carbon NPs,Carbon source,Hydrothermal,7,None,,E. coli ,20,0.125,,Yes,Gram-negative,No,,
+10.1016/j.carbon.2021.10.020,2021,Carbon NPs,Carbon source,Hydrothermal,7,None,,P. aeruginosa ,20,0.25,,Yes,Gram-negative,No,,
+10.1016/j.carbon.2021.10.020,2021,Carbon NPs,Carbon source,Hydrothermal,7,None,,Other,20,0.125,,Yes,Gram-negative,No,,
+10.1186/s12896-024-00907-9,2024,Carbon-plant NPs,Biopolymer,Ionic Getlation,500.73,Fruit,"Phyllanthus emblica (Amla / Indian gooseberry); tannins, polyphenols, gallic acid, quercetin, ascorbic acid, emblicanins",P. aeruginosa ,,3.125,3.125,,Gram-negative,Yes,MDR ,
+10.1016/j.heliyon.2020.e03323,2020,Carbon-plant NPs,Cu salt + Plant extract,Green Synthesis,9,Leaf," Adhatoda vasica Nees (Malabar nut tree); alkaloids (vasicine, vasicinone), tannins, saponins, phenols, sugars, amino acids",E. coli ,11,,,,Gram-negative,No,,
+10.1016/j.heliyon.2020.e03323,2020,CuO Nanocomposite,Cu salt + Plant extract,Green Synthesis,9,Leaf," Adhatoda vasica Nees (Malabar nut tree); alkaloids (vasicine, vasicinone), tannins, saponins, phenols, sugars, amino acids",P. aeruginosa ,12,,,,Gram-negative,No,,
+10.1016/j.heliyon.2020.e03323,2020,CuO Nanocomposite,Cu salt + Plant extract,Green Synthesis,9,Leaf," Adhatoda vasica Nees (Malabar nut tree); alkaloids (vasicine, vasicinone), tannins, saponins, phenols, sugars, amino acids",Other,14,791,1500,,Gram-negative,No,,
+10.1016/j.heliyon.2020.e03323,2020,CuO Nanocomposite,Cu salt + Plant extract,Green Synthesis,9,Leaf," Adhatoda vasica Nees (Malabar nut tree); alkaloids (vasicine, vasicinone), tannins, saponins, phenols, sugars, amino acids",S. aureus ,11,NR,NR,,Gram-positive,No,,
+10.1016/j.heliyon.2020.e03323,2020,CuO Nanocomposite,Cu salt + Plant extract,Green Synthesis,9,Leaf," Adhatoda vasica Nees (Malabar nut tree); alkaloids (vasicine, vasicinone), tannins, saponins, phenols, sugars, amino acids",Other,13,NR,NR,,Fungus,No,,
+10.1016/j.heliyon.2020.e03323,2020,CuO Nanocomposite,Cu salt + Plant extract,Green Synthesis,9,Leaf," Adhatoda vasica Nees (Malabar nut tree); alkaloids (vasicine, vasicinone), tannins, saponins, phenols, sugars, amino acids",Other,14,873,,,Fungus,No,,
+10.1038/s41598-020-79547-w,2021,Others,Zn+Cu salt + Plant extract,Green Synthesis,7.8,Leaf," Adhatoda vasica Nees (Malabar nut tree); alkaloids (vasicine, vasicinone), tannins, saponins, phenols, sugars, amino acids",S. aureus ,6.67,625,2500,Yes ,Gram-positive,Yes,Non-MDR,
+10.1038/s41598-020-79547-w,2021,Others,Zn+Cu salt + Plant extract,Green Synthesis,7.8,Leaf," Adhatoda vasica Nees (Malabar nut tree); alkaloids (vasicine, vasicinone), tannins, saponins, phenols, sugars, amino acids",E. coli ,,625,2500,Yes ,Gram-negative,Yes,Non-MDR,
+10.1038/s41598-020-79547-w,2021,Others,Zn+Cu salt + Plant extract,Green Synthesis,7.8,Leaf," Adhatoda vasica Nees (Malabar nut tree); alkaloids (vasicine, vasicinone), tannins, saponins, phenols, sugars, amino acids",P. aeruginosa ,,156.25,312.5,Yes ,Gram-negative,Yes,MDR,
+10.1038/s41598-020-79547-w,2021,Others,Zn+Cu salt + Plant extract,Green Synthesis,7.8,Leaf," Adhatoda vasica Nees (Malabar nut tree); alkaloids (vasicine, vasicinone), tannins, saponins, phenols, sugars, amino acids",Other,,625,1250,Yes ,Gram-negative,Yes,MDR,
+10.1038/s41598-020-79547-w,2021,Others,Zn+Cu salt + Plant extract,Green Synthesis,7.8,Leaf," Adhatoda vasica Nees (Malabar nut tree); alkaloids (vasicine, vasicinone), tannins, saponins, phenols, sugars, amino acids",Other,,156.25,312.5,Yes ,Gram-positive,Yes,MDR,
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Punica granatum (pomegranate) peel,Other,,500,,No,Gram-positive,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Punica granatum (pomegranate) peel,E. coli ,,1000,,No,Gram-negative,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Punica granatum (pomegranate) peel,Other,,500,,No,Gram-positive,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Punica granatum (pomegranate) peel,Other,,2000,,No,Gram-negative,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Punica granatum (pomegranate) peel,S. aureus ,,2000,,No,Gram-positive,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Punica granatum (pomegranate) peel,Other,,2000,,No,Gram-positive,Yes,MRSA,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Punica granatum (pomegranate) peel,Other,,4000,,No,Gram-negative,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Punica granatum (pomegranate) peel,Other,,250,,No,Gram-negative,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Vaccinium corymbosum (blueberry) pomace,Other,,400,500,No,Gram-negative,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Rubus fruticosus (blackberry) pomace,Other,,600,800,No,Gram-negative,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Syzygium cumini (jambolan) fruit pulp,E. coli ,16.7,2000,,No,Gram-negative,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Syzygium cumini (jambolan) fruit pulp,S. aureus ,23,500,,No,Gram-positive,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Syzygium cumini (jambolan) fruit pulp,Other,16,2000,,No,Gram-positive,Yes,MRSA,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Syzygium cumini (jambolan) fruit pulp,Other,15.3,2000,,No,Gram-negative,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Vitis vinifera (grape) pomace,E. coli ,,300,,No,Gram-negative,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Vitis vinifera (grape) pomace,Other,,1500,,No,Gram-positive,Yes,MRSA,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Vitis vinifera (grape) pomace,S. aureus ,,600,,No,Gram-positive,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Punica granatum (pomegranate) peel,E. coli ,,50000,,No,Gram-negative,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Punica granatum (pomegranate) peel,Other,,50000,,No,Gram-positive,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Punica granatum (pomegranate) peel,Other,,20000,,No,Gram-positive,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Punica granatum (pomegranate) peel,P. aeruginosa ,,40000,,No,Gram-negative,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Punica granatum (pomegranate) peel,S. aureus ,,50000,,No,Gram-positive,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Sambucus nigra (elderberry) whole fruit,Other,,7810,,No,Gram-positive,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Sambucus nigra (elderberry) whole fruit,S. aureus ,,7810,,No,Gram-positive,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Sambucus nigra (elderberry) whole fruit,E. coli ,,7810,,No,Gram-negative,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Vitis vinifera (Italian red grape) skin,Other,,7810,,No,Gram-positive,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Vitis vinifera (Italian red grape) skin,S. aureus ,,7810,,No,Gram-positive,No,,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,,Fruit,Vitis vinifera (Italian red grape) skin,E. coli ,,7810,,No,Gram-negative,No,,No
+10.5897/AJMR10.159,2011,ZnO NPs,Metal oxide commercial,Chemical,3,None,None,E. coli ,19,1000,16000,No,Gram-negative,No,,No
+10.5897/AJMR10.159,2011,ZnO NPs,Metal oxide commercial,Chemical,3,None,None,E. coli ,28,1000,16000,No,Gram-negative,No,,No
+10.5897/AJMR10.159,2011,ZnO NPs,Metal oxide commercial,Chemical,3,None,None,E. coli ,10,1000,16000,No,Gram-negative,No,,No
+10.5897/AJMR10.159,2011,ZnO NPs,Metal oxide commercial,Chemical,3,None,None,E. coli ,14,1000,16000,No,Gram-negative,No,,No
+10.5897/AJMR10.159,2011,ZnO NPs,Metal oxide commercial,Chemical,3,None,None,S. aureus ,29,500,8000,No,Gram-positive,No,,No
+10.5897/AJMR10.159,2011,ZnO NPs,Metal oxide commercial,Chemical,3,None,None,S. aureus ,22,500,8000,No,Gram-positive,No,,No
+10.5897/AJMR10.159,2011,ZnO NPs,Metal oxide commercial,Chemical,3,None,None,S. aureus ,14,500,8000,No,Gram-positive,No,,No
+10.5897/AJMR10.159,2011,ZnO NPs,Metal oxide commercial,Chemical,3,None,None,S. aureus ,9,500,8000,No,Gram-positive,No,,No
+10.1111/j.1745-4565.2010.00287.x,2011,ZnO NPs,Metal oxide commercial,Commercial ,50,None,None,Other,35,567000,,No,Gram-positive,No,,No
+10.1111/j.1745-4565.2010.00287.x,2011,ZnO NPs,Metal oxide commercial,Commercial ,50,None,None,Other,19,1701000,,No,Gram-negative,No,,No
+10.1111/j.1745-4565.2010.00287.x,2011,ZnO NPs,Metal oxide commercial,Commercial ,50,None,None,E. coli ,21,1296000,,No,Gram-negative,No,,No
+10.1111/j.1745-4565.2010.00287.x,2011,ZnO NPs,Metal oxide commercial,Commercial ,50,None,None,E. coli ,18,1377000,,No,Gram-negative,Yes,Pathogenic,No
+10.1111/j.1745-4565.2010.00287.x,2011,ZnO NPs,Metal oxide commercial,Commercial ,50,None,None,P. aeruginosa ,17,2106000,,No,Gram-negative,No,,No
+10.1111/j.1745-4565.2010.00287.x,2011,ZnO NPs,Metal oxide commercial,Commercial ,50,None,None,Other,18,1944000,,No,Gram-negative,No,,No
+10.1111/j.1745-4565.2010.00287.x,2011,ZnO NPs,Metal oxide commercial,Commercial ,50,None,None,Other,22,1620000,,No,Gram-negative,No,,No
+10.1111/j.1745-4565.2010.00287.x,2011,ZnO NPs,Metal oxide commercial,Commercial ,50,None,None,Other,21,1782000,,No,Gram-negative,No,,No
+10.1111/j.1745-4565.2010.00287.x,2011,ZnO NPs,Metal oxide commercial,Commercial ,50,None,None,S. aureus ,31,810000,,No,Gram-positive,No,,
+10.1021/acsomega.0c03290,2020,Carbon NPs,Carbon source,Hydrothermal,1.7,None,Sugarcane bagasse pulp (industrial agro-waste) + citric acid co-precursor,Other,30,,,,Gram-positive,No,,No
+10.1021/acsomega.0c03290,2020,Carbon NPs,Carbon source,Hydrothermal,1.7,None,Sugarcane bagasse pulp (industrial agro-waste) + citric acid co-precursor,S. aureus ,22,,,,Gram-positive,No,,No
+10.1021/acsomega.0c03290,2020,Carbon NPs,Carbon source,Hydrothermal,1.7,None,Sugarcane bagasse pulp (industrial agro-waste) + citric acid co-precursor,P. aeruginosa ,24,,,,Gram-negative,No,,No
+10.1021/acsomega.0c03290,2020,Carbon NPs,Carbon source,Hydrothermal,1.7,None,Sugarcane bagasse pulp (industrial agro-waste) + citric acid co-precursor,Other,25,,,,Gram-negative,No,,No
+10.1021/acsomega.0c03290,2020,Carbon NPs,Carbon source,Hydrothermal,1.7,None,Sugarcane bagasse pulp (industrial agro-waste) + citric acid co-precursor,E. coli ,14,,,,Gram-negative,No,,No
+10.1007/s11356-020-11587-1,2020,Carbon NPs,Carbon source,Extraction,31,None,"Garlic (Allium sativum) peel - agro-waste, not a phytochemical-reducing extract; pyrolyzed directly to carbon",E. coli ,13.5,480,495,,Gram-negative,No,,No
+10.1007/s11356-020-11587-1,2020,Carbon NPs,Carbon source,Extraction,31,None,"Garlic (Allium sativum) peel - agro-waste, not a phytochemical-reducing extract; pyrolyzed directly to carbon",S. aureus ,0,0,,,Gram-positive,No,,Yes
+10.1016/j.compositesb.2020.108415,2020,Ag NPs,Zn salt + MOF linker,Co-precipitation,10,None,,S. aureus ,10,125,,,Gram-positive,Yes,MRSA,No
+10.1016/j.compositesb.2020.108415,2020,Ag NPs,Zn salt + MOF linker,Co-precipitation,5,None,,S. aureus ,7,250,,,Gram-positive,Yes,MRSA,No
+10.1049/iet-nbt.2019.0342,2020,Ag NPs,Metal oxide commercial,Chemical,20,None,,E. coli ,33,80,,,Gram-negative,Yes,Pathogenic,No
+10.1049/iet-nbt.2019.0342,2020,Ag NPs,Metal oxide commercial,Chemical,20,None,,S. aureus ,30,60,,,Gram-positive,No,,No
+10.1186/s12896-025-00953-x,2025,ZIF-8,Zn salt + MOF linker,Co-precipitation,80,None,,S. aureus ,22.5,3.75,7.5,,Gram-positive,No,,No
+10.1186/s12896-025-00953-x,2025,ZIF-8,Zn salt + MOF linker,Co-precipitation,80,None,,E. coli ,14,240,480,,Gram-negative,No,,No
+10.1016/j.cej.2024.152453,2024,ZIF-8,Zn salt + MOF linker,Co-precipitation,,None,,E. coli ,,128,,Yes ,Gram-negative,,,
+10.1016/j.cej.2024.152454,2024,ZIF-8,Zn salt + MOF linker,Co-precipitation,,None,,S. aureus ,,64,,Yes ,Gram-positive,,,
+10.5897/JMPR10.243 ,2010,Plant extract,Plant extract,Extraction,,Fruit,"Amla (Emblica officinalis) fruit pulp, ethanolic extract",P. aeruginosa ,17,25,,,Gram-negative,No,,No
+10.5897/JMPR10.244,2010,Plant extract,Plant extract,Extraction,,Fruit,"Amla (Emblica officinalis) fruit pulp, ethanolic extract",S. aureus ,31,25,,,Gram-positive,Yes,MRSA,No
+10.1016/j.saa.2015.01.062,2015,Ag NPs,Ag + Plant Extract,Green Synthesis,15,Fruit,"Emblica officinalis (Amla) fruit extract, aqueous",S. aureus ,15,,,,Gram-positive,No,,No
+10.1016/j.saa.2015.01.062,2015,Ag NPs,Ag + Plant Extract,Green Synthesis,15,Fruit,"Emblica officinalis (Amla) fruit extract, aqueous",Other,17,,,,Gram-positive,No,,No
+10.1016/j.saa.2015.01.062,2015,Ag NPs,Ag + Plant Extract,Green Synthesis,15,Fruit,"Emblica officinalis (Amla) fruit extract, aqueous",P. aeruginosa ,21,,,,Gram-negative,No,,No
+10.1016/j.saa.2015.01.062,2015,Ag NPs,Ag + Plant Extract,Green Synthesis,15,Fruit,"Emblica officinalis (Amla) fruit extract, aqueous",Other,19,,,,Gram-negative,No,,No
+10.1038/s41598-020-69606-7,2020,Ag NPs,Ag + Plant Extract,Green Synthesis,5,Root,Lysiloma acapulcensis (stem + root aqueous extract),E. coli ,18,0.06,0.13,,Gram-negative,No,,No
+10.1038/s41598-020-69606-7,2020,Ag NPs,Ag + Plant Extract,Green Synthesis,5,Root,Lysiloma acapulcensis (stem + root aqueous extract),S. aureus ,16,0.06,0.13,,Gram-positive,No,,No
+10.1038/s41598-020-69606-7,2020,Ag NPs,Ag + Plant Extract,Green Synthesis,5,Root,Lysiloma acapulcensis (stem + root aqueous extract),P. aeruginosa ,15,0.06,0.13,,Gram-negative,No,,No
+10.1038/s41598-020-69606-7,2020,Ag NPs,Ag + Plant Extract,Green Synthesis,5,Root,Lysiloma acapulcensis (stem + root aqueous extract),Other,19,0.13,0.25,,Fungus,No,,No
+10.1080/10826068.2020.1815057,2020,ZnO NPs,Zn salt + Plant extract,Green Synthesis,12,Whole Plant,"Emblica officinalis (Amla), dried commercial powder, aqueous extract",E. coli ,19.66,50000,,,Gram-negative,No,,No
+10.1080/10826068.2020.1815057,2020,ZnO NPs,Zn salt + Plant extract,Green Synthesis,12,Whole Plant,"Emblica officinalis (Amla), dried commercial powder, aqueous extract",P. aeruginosa ,25.66,1000000,,,Gram-negative,No,,No
+10.1016/j.ceramint.2020.10.097,2020,ZnO NPs,Others,Hydrothermal,32,None,,S. aureus ,19,19.53,,,Gram-positive,No,,No
+10.1016/j.ceramint.2020.10.097,2020,ZnO NPs,Others,Hydrothermal,32,None,,Other,11,156.25,,,Gram-positive,Yes,MRSA,No
+10.1016/j.ceramint.2020.10.097,2020,ZnO NPs,Others,Hydrothermal,32,None,None,E. coli ,8,625,,,Gram-negative,No,,No
+https://doi.org/10.1021/acsomega.2c03465,2022,Carbon-plant NPs,Carbon source,Hydrothermal,4.5,Fruit,"Citrus medica (Citron) fruit juice; acidic, high carboxyl/hydroxyl content",P. aeruginosa ,,,,,Gram-negative,No,,
+https://doi.org/10.1021/acsomega.2c03465,2022,Carbon-plant NPs,Carbon source,Hydrothermal,4.5,Fruit,"Citrus medica (Citron) fruit juice; acidic, high carboxyl/hydroxyl content",P. aeruginosa ,,,,,Gram-negative,Yes,MDR,
+https://doi.org/10.1021/acsomega.2c03465,2022,Carbon-plant NPs,Carbon source,Hydrothermal,4.5,Fruit,"Citrus medica (Citron) fruit juice; acidic, high carboxyl/hydroxyl content",P. aeruginosa ,,,,,Gram-negative,No,Non-MDR,
+https://doi.org/10.1016/j.mtcomm.2022.104347,2022,Carbon-plant NPs,Carbon source,Microwave,7.4,Fruit,"Ficus religiosa (sacred fig/peepal tree); fig extract boiled in chloroform, then microwave-carbonized; medicinally important biomass source",E. coli ,,110,130,Yes,Gram-negative,Yes,ampicillin-resistant,
+https://doi.org/10.1016/j.mtcomm.2022.104347,2022,Carbon-plant NPs,Carbon source,Microwave,7.4,Fruit,"Ficus religiosa (sacred fig/peepal tree); fig extract boiled in chloroform, then microwave-carbonized; medicinally important biomass source",Other,,120,130,,Gram-positive,Yes,tetracycline-resistant,
+,2024,Carbon-plant NPs,Carbon source,Hydrothermal,,Leaf,"Lawsonia inermis (henna); leaves cold-percolated in water; phytochemicals present: alkaloids, flavonoids, terpenoids, steroids, quinones, tannins (saponins, phenolics, carbs, protein absent per screening)",E. coli ,15,,,,Gram-negative,No,,
+,2024,Carbon-plant NPs,Carbon source,Hydrothermal,,Leaf,"Lawsonia inermis (henna); leaves cold-percolated in water; phytochemicals present: alkaloids, flavonoids, terpenoids, steroids, quinones, tannins (saponins, phenolics, carbs, protein absent per screening)",Other,16,,,,Gram-negative,No,,
+,2024,Carbon-plant NPs,Carbon source,Hydrothermal,,Leaf,"Lawsonia inermis (henna); leaves cold-percolated in water; phytochemicals present: alkaloids, flavonoids, terpenoids, steroids, quinones, tannins (saponins, phenolics, carbs, protein absent per screening)",Other,18,,,,Gram-positive,No,,
+,2024,Carbon-plant NPs,Carbon source,Hydrothermal,,Leaf,"Lawsonia inermis (henna); leaves cold-percolated in water; phytochemicals present: alkaloids, flavonoids, terpenoids, steroids, quinones, tannins (saponins, phenolics, carbs, protein absent per screening)",S. aureus ,15,,,,Gram-positive,No,,
+,2024,Carbon-plant NPs,Carbon source,Hydrothermal,,Leaf,"Lawsonia inermis (henna); leaves cold-percolated in water; phytochemicals present: alkaloids, flavonoids, terpenoids, steroids, quinones, tannins (saponins, phenolics, carbs, protein absent per screening)",Other,13,,,,Gram-positive,No,,
+https://doi.org/10.1016/j.cej.2024.152453,2024,Zinc MOF,Zn salt + MOF linker,Chemical,112.62,None,,E. coli ,,768,,No,Gram-negative,No,,
+https://doi.org/10.1016/j.cej.2024.152453,2024,Zinc MOF,Zn salt + MOF linker,Chemical,112.62,None,,E. coli ,16,768,,Yes,Gram-negative,No,,
+https://doi.org/10.1016/j.cej.2024.152453,2024,Zinc MOF,Zn salt + MOF linker,Chemical,112.62,None,,S. aureus ,20,256,,No,Gram-positive,No,,
+https://doi.org/10.1016/j.cej.2024.152453,2024,Zinc MOF,Zn salt + MOF linker,Chemical,112.62,None,,S. aureus ,23,256,,Yes,Gram-positive,No,,
+https://doi.org/10.1016/j.cej.2024.152453,2024,M-NP@MOF,Zn salt + MOF linker,Chemical,101.36,None,,E. coli ,29,128,,No,Gram-negative,No,,
+https://doi.org/10.1016/j.cej.2024.152453,2024,M-NP@MOF,Zn salt + MOF linker,Chemical,101.36,None,,E. coli ,35,128,,Yes,Gram-negative,No,,
+https://doi.org/10.1016/j.cej.2024.152453,2024,M-NP@MOF,Zn salt + MOF linker,Chemical,101.36,None,,S. aureus ,28,64,,No,Gram-positive,No,,
+https://doi.org/10.1016/j.cej.2024.152453,2024,M-NP@MOF,Zn salt + MOF linker,Chemical,101.36,None,,S. aureus ,40,64,,Yes,Gram-positive,No,,
+https://doi.org/10.1016/j.cej.2024.152453,2024,M-NP@MOF,Zn salt + MOF linker,Chemical,101.36,None,,E. coli ,,,,,Gram-negative,No,,
+https://doi.org/10.1016/j.cej.2024.152453,2024,M-NP@MOF,Zn salt + MOF linker,Chemical,,None,,S. aureus ,,,,,Gram-positive,No,,
+https://doi.org/10.1016/j.cej.2024.152453,2024,M-NP@MOF,Zn salt + MOF linker,Chemical,,None,,E. coli ,,,,,Gram-negative,No,,
+https://doi.org/10.1016/j.cej.2024.152453,2024,M-NP@MOF,Zn salt + MOF linker,Chemical,,None,,S. aureus ,,,,,Gram-positive,No,,
+10.1016/j.heliyon.2020.e03231,2020,Zinc MOF,Zn salt + MOF linker,Other,97,None,,S. aureus ,17,250,,,Gram-positive,,,
+10.1016/j.heliyon.2020.e03231,2020,Zinc MOF,Zn salt + MOF linker,Other,97,None,,Other,16,500,,,Gram-positive,,,
+10.1016/j.heliyon.2020.e03231,2020,Zinc MOF,Zn salt + MOF linker,Other,97,None,,Other,11,1000,,,Gram-negative,,,
+10.1016/j.heliyon.2020.e03231,2020,Zinc MOF,Zn salt + MOF linker,Other,97,None,,Other,9.7,500,,,Gram-negative,,,
+10.1016/j.heliyon.2020.e03231,2020,Zinc MOF,Zn salt + MOF linker,Other,97,None,,Other,9.7,500,,,Gram-negative,,,
+10.1016/j.heliyon.2020.e03231,2020,Zinc MOF,Zn salt + MOF linker,Other,97,None,,E. coli ,8.6,1000,,,Gram-negative,,,
+10.1038/s41598-020-64419-0,2020,ZnO NPs,Zn salt + Plant extract,Co-precipitation,21.05,Leaf,"Cannabis sativa (leaf, aqueous extract, reducing/capping agent)",P. aeruginosa ,0,,,,Gram-negative,No,,Yes
+10.1038/s41598-020-64419-0,2020,ZnO NPs,Zn salt + Plant extract,Co-precipitation,21.05,Leaf,Cannabis sativa (leaf),Other,9,,,,Gram-negative,No,,No
+10.1038/s41598-020-64419-0,2020,ZnO NPs,Zn salt + Plant extract,Co-precipitation,21.05,Leaf,Cannabis sativa (leaf),S. aureus ,10,,,,Gram-positive,No,,No
+10.1038/s41598-020-64419-0,2020,ZnO NPs,Zn salt + Plant extract,Co-precipitation,21.05,Leaf,Cannabis sativa (leaf),Other,10,,,,Gram-negative,No,,No
+10.1038/s41598-020-64419-0,2020,ZnO NPs,Zn salt + Plant extract,Co-precipitation,21.05,Leaf,Cannabis sativa (leaf),Other,8,,,,Gram-positive,Yes,MRSA,No
+10.1038/s41598-020-64419-0,2020,ZnO NPs,Zn salt + Plant extract,Co-precipitation,21.05,Leaf,Cannabis sativa (leaf),E. coli ,10,,,,Gram-negative,No,,No
+10.1038/s41598-020-64419-0,2020,Ag NPs,Ag salt + Plant extract,Co-precipitation,30.13,Leaf,Cannabis sativa (leaf),P. aeruginosa ,13,,,,Gram-negative,No,,No
+10.1038/s41598-020-64419-0,2020,Ag NPs,Ag salt + Plant extract,Co-precipitation,30.13,Leaf,Cannabis sativa (leaf),Other,14,,,,Gram-negative,No,,No
+10.1038/s41598-020-64419-0,2020,Ag NPs,Ag salt + Plant extract,Co-precipitation,30.13,Leaf,Cannabis sativa (leaf),S. aureus ,16,,,,Gram-positive,No,,No
+10.1038/s41598-020-64419-0,2020,Ag NPs,Ag salt + Plant extract,Co-precipitation,30.13,Leaf,Cannabis sativa (leaf),Other,19,,,,Gram-negative,No,,No
+10.1038/s41598-020-64419-0,2020,Ag NPs,Ag salt + Plant extract,Co-precipitation,30.13,Leaf,Cannabis sativa (leaf),Other,16,,,,Gram-positive,Yes,MRSA,No
+10.1038/s41598-020-64419-0,2020,Ag NPs,Ag salt + Plant extract,Co-precipitation,30.13,Leaf,Cannabis sativa (leaf),E. coli ,14,,,,Gram-negative,No,,No
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,27.4,Leaf,Azadirachta indica (Neem),E. coli ,,62.5,62.5,Yes,Gram-negative,Yes,multidrug-resistant,
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,27.4,Leaf,Azadirachta indica (Neem),Other,,125,125,Yes,Gram-negative,Yes,multidrug-resistant,
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,27.4,Leaf,Azadirachta indica (Neem),P. aeruginosa ,,125,125,Yes,Gram-negative,Yes,multidrug-resistant,
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,27.4,Leaf,Azadirachta indica (Neem),Other,,125,125,Yes,Gram-negative,Yes,multidrug-resistant,
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,27.4,Leaf,Azadirachta indica (Neem),Other,,62.5,62.5,Yes,Gram-negative,Yes,multidrug-resistant,
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,27.4,Leaf,Azadirachta indica (Neem),S. aureus ,,125,125,Yes,Gram-negative,Yes,Methicillin,
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,25.3,Leaf,Simmondsia chinensis (Jojoba),E. coli ,,125,125,Yes,Gram-negative,Yes,multidrug-resistant,
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,25.3,Leaf,Simmondsia chinensis (Jojoba),Other,,125,125,Yes,Gram-negative,Yes,multidrug-resistant,
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,25.3,Leaf,Simmondsia chinensis (Jojoba),P. aeruginosa ,,125,125,Yes,Gram-negative,Yes,multidrug-resistant,
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,25.3,Leaf,Simmondsia chinensis (Jojoba),Other,,125,125,Yes,Gram-negative,Yes,multidrug-resistant,
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,25.3,Leaf,Simmondsia chinensis (Jojoba),Other,,62.5,62.5,Yes,Gram-negative,Yes,multidrug-resistant,
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,25.3,Leaf,Simmondsia chinensis (Jojoba),S. aureus ,,125,125,Yes,Gram-positive,Yes,Methicillin,
+10.1016/j.micpath.2020.104172,2020,Others,Ag + Plant Extract,Green Synthesis,21.48,Seed,Carum copticum,P. aeruginosa ,,30,,,Gram-negative,,,
+10.1016/j.micpath.2020.104172,2020,Others,Ag + Plant Extract,Green Synthesis,21.48,Seed,Carum copticum,Other,,10,,,Gram-negative,,,
+10.1016/j.micpath.2020.104172,2020,Others,Ag + Plant Extract,Green Synthesis,21.48,Seed,Carum copticum,Other,,20,,,Gram-negative,,,
+10.3109/21691401.2016.1160403,2017,Others,Ag + Plant Extract,Green Synthesis,121.5,Root,Rheum palmatum,S. aureus ,15,15,,,Gram-positive,,,
+10.3109/21691401.2016.1160403,2017,Others,Ag + Plant Extract,Green Synthesis,121.5,Root,Rheum palmatum,P. aeruginosa ,13,15,,,Gram-negative,,,
+10.1186/s12896-026-01138-w,2026,Others,Ag + Plant Extract,Green Synthesis,10.97,,Curcuma longa,P. aeruginosa ,,14.12,28.24,Yes,Gram-negative,Yes,multidrug-resistant,
+10.1186/s12896-026-01138-w,2026,Others,Ag + Plant Extract,Green Synthesis,10.97,,Curcuma longa,S. aureus ,,14.12,28.24,Yes,Gram-positive,Yes,Methicillin,
+10.1038/s41598-025-00005-6,2025,Others,Ag + Plant Extract,Green Synthesis,70,,Propolis,P. aeruginosa ,,4,16,,Gram-negative,Yes,multidrug-resistant,
+10.1038/s41598-025-00005-6,2025,Others,Ag + Plant Extract,Green Synthesis,70,,Propolis,Other,,8,16,,Gram-positive,Yes,multidrug-resistant,
+10.22052/JNS.2026.01.054,2026,Others,Cu salt + Plant extract,Green Synthesis,22.5,Leaf,Allium ampeloprasum,S. aureus ,27.4,7.8,,,Gram-positive,Yes,Multidrug-resistant,
+10.22052/JNS.2026.01.054,2026,Others,Cu salt + Plant extract,Green Synthesis,22.5,Leaf,Allium ampeloprasum,S. aureus ,27,15.6,,,Gram-positive,Yes,Multidrug-resistant,
+10.22052/JNS.2026.01.054,2026,Others,Cu salt + Plant extract,Green Synthesis,22.5,Leaf,Allium ampeloprasum,S. aureus ,21,7.8,,,Gram-positive,Yes,Multidrug-resistant,
+10.1021/acsanm.4c04319,2024,ZIF-8,Zn salt + MOF linker,Chemical,67.5,None,,E. coli ,,625,2500,Yes,Gram-negative,No,,
+10.1021/acsanm.4c04319,2024,ZIF-8,Zn salt + MOF linker,Chemical,67.5,None,,S. aureus ,,625,2500,Yes,Gram-positive,No,,
+10.1021/acsanm.4c04319,2024,Others,Others,Chemical,950,None,,E. coli ,,625,5000,Yes,Gram-negative,No,,
+10.1021/acsanm.4c04319,2024,Others,Others,Chemical,950,None,,S. aureus ,,625,2500,Yes,Gram-positive,No,,
+10.1021/acsanm.4c04319,2024,Others,Others,Chemical,,None,,E. coli ,,1250,5000,Yes,Gram-negative,No,,
+10.1021/acsanm.4c04319,2024,Others,Others,Chemical,,None,,S. aureus ,,1250,5000,Yes,Gram-positive,No,,
+10.1021/acsanm.4c04319,2024,Others,Others,Chemical,,None,,E. coli ,,1250,10000,Yes,Gram-negative,No,,
+10.1021/acsanm.4c04319,2024,Others,Others,Chemical,,None,,S. aureus ,,1250,10000,Yes,Gram-positive,No,,
+10.1021/acsanm.4c04319,2024,Others,Others,Chemical,110,None,,E. coli ,,5000,,Yes,Gram-negative,No,,
+10.1021/acsanm.4c04319,2024,Others,Others,Chemical,110,None,,S. aureus ,,5000,,Yes,Gram-positive,No,,
+10.1016/j.molstruc.2021.131315,2021,Zinc MOF,Zn salt + MOF linker,Chemical,59,None,,S. aureus ,13.46,64,128,NR,Gram-positive,No,,
+10.1016/j.molstruc.2021.131315,2021,Zinc MOF,Zn salt + MOF linker,Chemical,59,None,,Other,15.34,32,28,NR,Gram-positive,No,,
+10.1016/j.molstruc.2021.131315,2021,Zinc MOF,Zn salt + MOF linker,Chemical,59,None,,Other,14.16,512,1024,NR,Gram-positive,No,,
+10.1016/j.molstruc.2021.131315,2021,Zinc MOF,Zn salt + MOF linker,Chemical,59,None,,Other,12.75,256,512,NR,Gram-negative,No,,
+10.1016/j.molstruc.2021.131315,2021,Zinc MOF,Zn salt + MOF linker,Chemical,59,None,,Other,12.9,64,128,NR,Gram-negative,No,,
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,,None,,Other,14.3,256,512,,Gram-negative,,,
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,,None,,Other,11.1,1024,2048,,Gram-positive,,,
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,,None,,Other,13.4,64,128,,Gram-negative,,,
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,,None,,Other,17.5,32,64,,Gram-positive,,,
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,,None,,Other,14.9,128,256,,Gram-positive,,,
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,,None,,Other,12.3,512,1024,,Gram-negative,,,
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,,None,,E. coli ,17.7,128,256,,Gram-negative,,,
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,,None,,Other,17.6,64,128,,Gram-negative,,,
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,,None,,Other,,,,,Gram-negative,,,
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,,None,,Other,17.8,128,256,,Gram-negative,,,
+10.1007/s10904-024-03078-4,2024,MOF/Drug/Polymer Composite,MOF + Antibiotic + Biopolymer,Chemical,,None,,Other,17.3,32,32,,Gram-positive,,,
+10.1007/s10904-024-03078-4,2024,MOF/Drug/Polymer Composite,MOF + Antibiotic + Biopolymer,Chemical,,None,,Other,22.7,2,4,,Gram-negative,,,
+10.1007/s10904-024-03078-4,2024,MOF/Drug/Polymer Composite,MOF + Antibiotic + Biopolymer,Chemical,,None,,Other,18.9,4,8,,Gram-positive,,,
+10.1007/s10904-024-03078-4,2024,MOF/Drug/Polymer Composite,MOF + Antibiotic + Biopolymer,Chemical,,None,,Other,15.5,64,128,,Gram-positive,,,
+10.1007/s10904-024-03078-4,2024,MOF/Drug/Polymer Composite,MOF + Antibiotic + Biopolymer,Chemical,,None,,Other,20.4,4,8,,Gram-positive,,,
+10.1007/s10904-024-03078-4,2024,MOF/Drug/Polymer Composite,MOF + Antibiotic + Biopolymer,Chemical,,None,,E. coli ,20.1,8,16,,Gram-negative,,,
+10.1007/s10904-024-03078-4,2024,MOF/Drug/Polymer Composite,MOF + Antibiotic + Biopolymer,Chemical,,None,,Other,19,16,16,,Gram-negative,,,
+10.1007/s10904-024-03078-4,2024,MOF/Drug/Polymer Composite,MOF + Antibiotic + Biopolymer,Chemical,,None,,Other,16.9,16,32,,Gram-negative,,,
+10.1038/s41598-026-42070-5,2024,Others,Others,Chemical,,None,,Other,,600000,800000,,Gram-positive,,,
+10.3390/ijms241411439,2023,Others,Biopolymer,Ionic Getlation,,None,,E. coli ,,3300,,NR,Gram-negative,No,,
+10.3390/ijms241411439,2023,Zinc MOF,Zn salt + MOF linker,Co-precipitation,,None,,E. coli ,,830,,NR,Gram-negative,No,,
+10.3390/ijms241411439,2023,Zinc MOF,MOF + Antibiotic + Biopolymer,Co-precipitation,,None,,E. coli ,,670,,NR,Gram-negative,No,,
+10.3390/ijms241411439,2023,Zinc MOF,MOF + Antibiotic + Biopolymer,Co-precipitation,,None,,E. coli ,,330,,NR,Gram-negative,No,,
+10.3390/ijms241411439,2023,Zinc MOF,MOF + Antibiotic + Biopolymer,Co-precipitation,,None,,E. coli ,,250,,NR,Gram-negative,No,,
+10.3390/ijms241411439,2023,Others,Biopolymer,Ionic Getlation,,None,,S. aureus ,,5300,,NR,Gram-positive,No,,
+10.3390/ijms241411439,2023,Zinc MOF,Zn salt + MOF linker,Co-precipitation,,None,,S. aureus ,,1670,,NR,Gram-positive,No,,
+10.3390/ijms241411439,2023,Zinc MOF,MOF + Antibiotic + Biopolymer,Co-precipitation,,None,,S. aureus ,,830,,NR,Gram-positive,No,,
+10.3390/ijms241411439,2023,Zinc MOF,MOF + Antibiotic + Biopolymer,Co-precipitation,,None,,S. aureus ,,410,,NR,Gram-positive,No,,
+10.3390/ijms241411439,2023,Zinc MOF,MOF + Antibiotic + Biopolymer,Co-precipitation,,None,,S. aureus ,,330,,NR,Gram-positive,No,,
+10.1016/j.ijbiomac.2025.141175,2025,ZIF-8,Zn salt + MOF linker,Green Synthesis,,None,,E. coli ,22,,,NR,Gram-negative,,,
+10.1016/j.ijbiomac.2025.141176,2025,ZIF-8,Zn salt + MOF linker,Green Synthesis,,None,,S. aureus ,20,,,NR,Gram-positive,,,
+10.1016/j.jece.2020.104590,2020,ZIF-8,Zn salt + MOF linker,Co-precipitation,200,None,,S. aureus ,13,19.5,19.5,NR,Gram-positive,NR,,No
+10.1016/j.jece.2020.104591,2020,ZIF-8,Zn salt + MOF linker,Co-precipitation,200,None,,E. coli ,8,156.2,156.2,NR,Gram-negative,NR,,No
+10.1039/d5ma00177c,2025,ZIF-8,Zn salt + MOF linker + Other,Co-precipitation,90,None,,E. coli ,12,,,Yes,Gram-negative,NR,,
+10.1039/d5ma00177c,2025,ZIF-8,Zn salt + MOF linker + Other,Co-precipitation,25,None,,S. aureus ,17.7,,,Yes,Gram-positive,NR,,
+10.1039/d5ma00177c,2025,ZIF-8,Zn salt + MOF linker + Other,Co-precipitation,150,None,,E. coli ,21.7,,,Yes,Gram-negative,NR,,
+10.1039/d5ma00177c,2025,ZIF-8,Zn salt + MOF linker + Other,Co-precipitation,150,None,,S. aureus ,30.7,,,Yes,Gram-positive,NR,,
