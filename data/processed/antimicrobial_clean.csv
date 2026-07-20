@@ -1,0 +1,212 @@
+DOI,YEAR,MATERIAL,PRECURSOR,Synthesis_Method,Size_nm,Plant Extract Type,Bacterial Strain,Inhibition Zone (mm),MIC(ug/ml),MBC,ROS Generation,Gram Status,Resistant Type,IZ_Censored
+10.1016/j.carbon.2021.10.020,2021,Carbon NPs,Carbon source,Hydrothermal,7.0,Unknown,S. aureus ,20.0,0.125,130.0,Yes,Gram-positive,Unknown,Unknown
+10.1016/j.carbon.2021.10.020,2021,Carbon NPs,Carbon source,Hydrothermal,7.0,Unknown,Other,20.0,0.5,130.0,Yes,Gram-positive,Unknown,Unknown
+10.1016/j.carbon.2021.10.020,2021,Carbon NPs,Carbon source,Hydrothermal,7.0,Unknown,Other,20.0,0.5,130.0,Yes,Gram-positive,Unknown,Unknown
+10.1016/j.carbon.2021.10.020,2021,Carbon NPs,Carbon source,Hydrothermal,7.0,Unknown,Other,20.0,0.5,130.0,Yes,Gram-positive,Unknown,Unknown
+10.1016/j.carbon.2021.10.020,2021,Carbon NPs,Carbon source,Hydrothermal,7.0,Unknown,Other,20.0,0.25,130.0,Yes,Gram-positive,MRSA,Unknown
+10.1016/j.carbon.2021.10.020,2021,Carbon NPs,Carbon source,Hydrothermal,7.0,Unknown,E. coli ,20.0,0.125,130.0,Yes,Gram-negative,Unknown,Unknown
+10.1016/j.carbon.2021.10.020,2021,Carbon NPs,Carbon source,Hydrothermal,7.0,Unknown,P. aeruginosa ,20.0,0.25,130.0,Yes,Gram-negative,Unknown,Unknown
+10.1016/j.carbon.2021.10.020,2021,Carbon NPs,Carbon source,Hydrothermal,7.0,Unknown,Other,20.0,0.125,130.0,Yes,Gram-negative,Unknown,Unknown
+10.1186/s12896-024-00907-9,2024,Carbon-plant NPs,Biopolymer,Ionic Getlation,500.73,Fruit,P. aeruginosa ,,3.125,3.125,Unknown,Gram-negative,MDR ,Unknown
+10.1016/j.heliyon.2020.e03323,2020,Carbon-plant NPs,Cu salt + Plant extract,Green Synthesis,9.0,Leaf,E. coli ,11.0,256.0,130.0,Unknown,Gram-negative,Unknown,Unknown
+10.1016/j.heliyon.2020.e03323,2020,CuO Nanocomposite,Cu salt + Plant extract,Green Synthesis,9.0,Leaf,P. aeruginosa ,12.0,256.0,130.0,Unknown,Gram-negative,Unknown,Unknown
+10.1016/j.heliyon.2020.e03323,2020,CuO Nanocomposite,Cu salt + Plant extract,Green Synthesis,9.0,Leaf,Other,14.0,791.0,1500.0,Unknown,Gram-negative,Unknown,Unknown
+10.1016/j.heliyon.2020.e03323,2020,CuO Nanocomposite,Cu salt + Plant extract,Green Synthesis,9.0,Leaf,S. aureus ,11.0,256.0,130.0,Unknown,Gram-positive,Unknown,Unknown
+10.1016/j.heliyon.2020.e03323,2020,CuO Nanocomposite,Cu salt + Plant extract,Green Synthesis,9.0,Leaf,Other,13.0,256.0,130.0,Unknown,Fungus,Unknown,Unknown
+10.1016/j.heliyon.2020.e03323,2020,CuO Nanocomposite,Cu salt + Plant extract,Green Synthesis,9.0,Leaf,Other,14.0,873.0,130.0,Unknown,Fungus,Unknown,Unknown
+10.1038/s41598-020-79547-w,2021,Others,Zn+Cu salt + Plant extract,Green Synthesis,7.8,Leaf,S. aureus ,6.67,625.0,2500.0,Yes ,Gram-positive,Non-MDR,Unknown
+10.1038/s41598-020-79547-w,2021,Others,Zn+Cu salt + Plant extract,Green Synthesis,7.8,Leaf,E. coli ,,625.0,2500.0,Yes ,Gram-negative,Non-MDR,Unknown
+10.1038/s41598-020-79547-w,2021,Others,Zn+Cu salt + Plant extract,Green Synthesis,7.8,Leaf,P. aeruginosa ,,156.25,312.5,Yes ,Gram-negative,MDR,Unknown
+10.1038/s41598-020-79547-w,2021,Others,Zn+Cu salt + Plant extract,Green Synthesis,7.8,Leaf,Other,,625.0,1250.0,Yes ,Gram-negative,MDR,Unknown
+10.1038/s41598-020-79547-w,2021,Others,Zn+Cu salt + Plant extract,Green Synthesis,7.8,Leaf,Other,,156.25,312.5,Yes ,Gram-positive,MDR,Unknown
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,Other,,500.0,130.0,No,Gram-positive,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,E. coli ,,1000.0,130.0,No,Gram-negative,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,Other,,500.0,130.0,No,Gram-positive,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,Other,,2000.0,130.0,No,Gram-negative,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,S. aureus ,,2000.0,130.0,No,Gram-positive,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,Other,,2000.0,130.0,No,Gram-positive,MRSA,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,Other,,4000.0,130.0,No,Gram-negative,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,Other,,250.0,130.0,No,Gram-negative,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,Other,,400.0,500.0,No,Gram-negative,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,Other,,600.0,800.0,No,Gram-negative,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,E. coli ,16.7,2000.0,130.0,No,Gram-negative,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,S. aureus ,23.0,500.0,130.0,No,Gram-positive,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,Other,16.0,2000.0,130.0,No,Gram-positive,MRSA,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,Other,15.3,2000.0,130.0,No,Gram-negative,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,E. coli ,,300.0,130.0,No,Gram-negative,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,Other,,1500.0,130.0,No,Gram-positive,MRSA,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,S. aureus ,,600.0,130.0,No,Gram-positive,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,E. coli ,,50000.0,130.0,No,Gram-negative,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,Other,,50000.0,130.0,No,Gram-positive,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,Other,,20000.0,130.0,No,Gram-positive,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,P. aeruginosa ,,40000.0,130.0,No,Gram-negative,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,S. aureus ,,50000.0,130.0,No,Gram-positive,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,Other,,7810.0,130.0,No,Gram-positive,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,S. aureus ,,7810.0,130.0,No,Gram-positive,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,E. coli ,,7810.0,130.0,No,Gram-negative,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,Other,,7810.0,130.0,No,Gram-positive,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,S. aureus ,,7810.0,130.0,No,Gram-positive,Unknown,No
+10.1016/j.micpath.2019.03.025,2019,Plant extract,Plant extract,Extraction,25.3,Fruit,E. coli ,,7810.0,130.0,No,Gram-negative,Unknown,No
+10.5897/AJMR10.159,2011,ZnO NPs,Metal oxide commercial,Chemical,3.0,Unknown,E. coli ,19.0,1000.0,16000.0,No,Gram-negative,Unknown,No
+10.5897/AJMR10.159,2011,ZnO NPs,Metal oxide commercial,Chemical,3.0,Unknown,E. coli ,28.0,1000.0,16000.0,No,Gram-negative,Unknown,No
+10.5897/AJMR10.159,2011,ZnO NPs,Metal oxide commercial,Chemical,3.0,Unknown,E. coli ,10.0,1000.0,16000.0,No,Gram-negative,Unknown,No
+10.5897/AJMR10.159,2011,ZnO NPs,Metal oxide commercial,Chemical,3.0,Unknown,E. coli ,14.0,1000.0,16000.0,No,Gram-negative,Unknown,No
+10.5897/AJMR10.159,2011,ZnO NPs,Metal oxide commercial,Chemical,3.0,Unknown,S. aureus ,29.0,500.0,8000.0,No,Gram-positive,Unknown,No
+10.5897/AJMR10.159,2011,ZnO NPs,Metal oxide commercial,Chemical,3.0,Unknown,S. aureus ,22.0,500.0,8000.0,No,Gram-positive,Unknown,No
+10.5897/AJMR10.159,2011,ZnO NPs,Metal oxide commercial,Chemical,3.0,Unknown,S. aureus ,14.0,500.0,8000.0,No,Gram-positive,Unknown,No
+10.5897/AJMR10.159,2011,ZnO NPs,Metal oxide commercial,Chemical,3.0,Unknown,S. aureus ,9.0,500.0,8000.0,No,Gram-positive,Unknown,No
+10.1111/j.1745-4565.2010.00287.x,2011,ZnO NPs,Metal oxide commercial,Commercial ,50.0,Unknown,Other,35.0,567000.0,130.0,No,Gram-positive,Unknown,No
+10.1111/j.1745-4565.2010.00287.x,2011,ZnO NPs,Metal oxide commercial,Commercial ,50.0,Unknown,Other,19.0,1701000.0,130.0,No,Gram-negative,Unknown,No
+10.1111/j.1745-4565.2010.00287.x,2011,ZnO NPs,Metal oxide commercial,Commercial ,50.0,Unknown,E. coli ,21.0,1296000.0,130.0,No,Gram-negative,Unknown,No
+10.1111/j.1745-4565.2010.00287.x,2011,ZnO NPs,Metal oxide commercial,Commercial ,50.0,Unknown,E. coli ,18.0,1377000.0,130.0,No,Gram-negative,Pathogenic,No
+10.1111/j.1745-4565.2010.00287.x,2011,ZnO NPs,Metal oxide commercial,Commercial ,50.0,Unknown,P. aeruginosa ,17.0,2106000.0,130.0,No,Gram-negative,Unknown,No
+10.1111/j.1745-4565.2010.00287.x,2011,ZnO NPs,Metal oxide commercial,Commercial ,50.0,Unknown,Other,18.0,1944000.0,130.0,No,Gram-negative,Unknown,No
+10.1111/j.1745-4565.2010.00287.x,2011,ZnO NPs,Metal oxide commercial,Commercial ,50.0,Unknown,Other,22.0,1620000.0,130.0,No,Gram-negative,Unknown,No
+10.1111/j.1745-4565.2010.00287.x,2011,ZnO NPs,Metal oxide commercial,Commercial ,50.0,Unknown,Other,21.0,1782000.0,130.0,No,Gram-negative,Unknown,No
+10.1111/j.1745-4565.2010.00287.x,2011,ZnO NPs,Metal oxide commercial,Commercial ,50.0,Unknown,S. aureus ,31.0,810000.0,130.0,No,Gram-positive,Unknown,Unknown
+10.1021/acsomega.0c03290,2020,Carbon NPs,Carbon source,Hydrothermal,1.7,Unknown,Other,30.0,256.0,130.0,Unknown,Gram-positive,Unknown,No
+10.1021/acsomega.0c03290,2020,Carbon NPs,Carbon source,Hydrothermal,1.7,Unknown,S. aureus ,22.0,256.0,130.0,Unknown,Gram-positive,Unknown,No
+10.1021/acsomega.0c03290,2020,Carbon NPs,Carbon source,Hydrothermal,1.7,Unknown,P. aeruginosa ,24.0,256.0,130.0,Unknown,Gram-negative,Unknown,No
+10.1021/acsomega.0c03290,2020,Carbon NPs,Carbon source,Hydrothermal,1.7,Unknown,Other,25.0,256.0,130.0,Unknown,Gram-negative,Unknown,No
+10.1021/acsomega.0c03290,2020,Carbon NPs,Carbon source,Hydrothermal,1.7,Unknown,E. coli ,14.0,256.0,130.0,Unknown,Gram-negative,Unknown,No
+10.1007/s11356-020-11587-1,2020,Carbon NPs,Carbon source,Extraction,31.0,Unknown,E. coli ,13.5,480.0,495.0,Unknown,Gram-negative,Unknown,No
+10.1007/s11356-020-11587-1,2020,Carbon NPs,Carbon source,Extraction,31.0,Unknown,S. aureus ,0.0,0.0,130.0,Unknown,Gram-positive,Unknown,Yes
+10.1016/j.compositesb.2020.108415,2020,Ag NPs,Zn salt + MOF linker,Co-precipitation,10.0,Unknown,S. aureus ,10.0,125.0,130.0,Unknown,Gram-positive,MRSA,No
+10.1016/j.compositesb.2020.108415,2020,Ag NPs,Zn salt + MOF linker,Co-precipitation,5.0,Unknown,S. aureus ,7.0,250.0,130.0,Unknown,Gram-positive,MRSA,No
+10.1049/iet-nbt.2019.0342,2020,Ag NPs,Metal oxide commercial,Chemical,20.0,Unknown,E. coli ,33.0,80.0,130.0,Unknown,Gram-negative,Pathogenic,No
+10.1049/iet-nbt.2019.0342,2020,Ag NPs,Metal oxide commercial,Chemical,20.0,Unknown,S. aureus ,30.0,60.0,130.0,Unknown,Gram-positive,Unknown,No
+10.1186/s12896-025-00953-x,2025,ZIF-8,Zn salt + MOF linker,Co-precipitation,80.0,Unknown,S. aureus ,22.5,3.75,7.5,Unknown,Gram-positive,Unknown,No
+10.1186/s12896-025-00953-x,2025,ZIF-8,Zn salt + MOF linker,Co-precipitation,80.0,Unknown,E. coli ,14.0,240.0,480.0,Unknown,Gram-negative,Unknown,No
+10.1016/j.cej.2024.152453,2024,ZIF-8,Zn salt + MOF linker,Co-precipitation,25.3,Unknown,E. coli ,,128.0,130.0,Yes ,Gram-negative,Unknown,Unknown
+10.1016/j.cej.2024.152454,2024,ZIF-8,Zn salt + MOF linker,Co-precipitation,25.3,Unknown,S. aureus ,,64.0,130.0,Yes ,Gram-positive,Unknown,Unknown
+10.5897/JMPR10.243 ,2010,Plant extract,Plant extract,Extraction,25.3,Fruit,P. aeruginosa ,17.0,25.0,130.0,Unknown,Gram-negative,Unknown,No
+10.5897/JMPR10.244,2010,Plant extract,Plant extract,Extraction,25.3,Fruit,S. aureus ,31.0,25.0,130.0,Unknown,Gram-positive,MRSA,No
+10.1016/j.saa.2015.01.062,2015,Ag NPs,Ag + Plant Extract,Green Synthesis,15.0,Fruit,S. aureus ,15.0,256.0,130.0,Unknown,Gram-positive,Unknown,No
+10.1016/j.saa.2015.01.062,2015,Ag NPs,Ag + Plant Extract,Green Synthesis,15.0,Fruit,Other,17.0,256.0,130.0,Unknown,Gram-positive,Unknown,No
+10.1016/j.saa.2015.01.062,2015,Ag NPs,Ag + Plant Extract,Green Synthesis,15.0,Fruit,P. aeruginosa ,21.0,256.0,130.0,Unknown,Gram-negative,Unknown,No
+10.1016/j.saa.2015.01.062,2015,Ag NPs,Ag + Plant Extract,Green Synthesis,15.0,Fruit,Other,19.0,256.0,130.0,Unknown,Gram-negative,Unknown,No
+10.1038/s41598-020-69606-7,2020,Ag NPs,Ag + Plant Extract,Green Synthesis,5.0,Root,E. coli ,18.0,0.06,0.13,Unknown,Gram-negative,Unknown,No
+10.1038/s41598-020-69606-7,2020,Ag NPs,Ag + Plant Extract,Green Synthesis,5.0,Root,S. aureus ,16.0,0.06,0.13,Unknown,Gram-positive,Unknown,No
+10.1038/s41598-020-69606-7,2020,Ag NPs,Ag + Plant Extract,Green Synthesis,5.0,Root,P. aeruginosa ,15.0,0.06,0.13,Unknown,Gram-negative,Unknown,No
+10.1038/s41598-020-69606-7,2020,Ag NPs,Ag + Plant Extract,Green Synthesis,5.0,Root,Other,19.0,0.13,0.25,Unknown,Fungus,Unknown,No
+10.1080/10826068.2020.1815057,2020,ZnO NPs,Zn salt + Plant extract,Green Synthesis,12.0,Whole Plant,E. coli ,19.66,50000.0,130.0,Unknown,Gram-negative,Unknown,No
+10.1080/10826068.2020.1815057,2020,ZnO NPs,Zn salt + Plant extract,Green Synthesis,12.0,Whole Plant,P. aeruginosa ,25.66,1000000.0,130.0,Unknown,Gram-negative,Unknown,No
+10.1016/j.ceramint.2020.10.097,2020,ZnO NPs,Others,Hydrothermal,32.0,Unknown,S. aureus ,19.0,19.53,130.0,Unknown,Gram-positive,Unknown,No
+10.1016/j.ceramint.2020.10.097,2020,ZnO NPs,Others,Hydrothermal,32.0,Unknown,Other,11.0,156.25,130.0,Unknown,Gram-positive,MRSA,No
+10.1016/j.ceramint.2020.10.097,2020,ZnO NPs,Others,Hydrothermal,32.0,Unknown,E. coli ,8.0,625.0,130.0,Unknown,Gram-negative,Unknown,No
+https://doi.org/10.1021/acsomega.2c03465,2022,Carbon-plant NPs,Carbon source,Hydrothermal,4.5,Fruit,P. aeruginosa ,,256.0,130.0,Unknown,Gram-negative,Unknown,Unknown
+https://doi.org/10.1021/acsomega.2c03465,2022,Carbon-plant NPs,Carbon source,Hydrothermal,4.5,Fruit,P. aeruginosa ,,256.0,130.0,Unknown,Gram-negative,MDR,Unknown
+https://doi.org/10.1021/acsomega.2c03465,2022,Carbon-plant NPs,Carbon source,Hydrothermal,4.5,Fruit,P. aeruginosa ,,256.0,130.0,Unknown,Gram-negative,Non-MDR,Unknown
+https://doi.org/10.1016/j.mtcomm.2022.104347,2022,Carbon-plant NPs,Carbon source,Microwave,7.4,Fruit,E. coli ,,110.0,130.0,Yes,Gram-negative,ampicillin-resistant,Unknown
+https://doi.org/10.1016/j.mtcomm.2022.104347,2022,Carbon-plant NPs,Carbon source,Microwave,7.4,Fruit,Other,,120.0,130.0,Unknown,Gram-positive,tetracycline-resistant,Unknown
+Unknown,2024,Carbon-plant NPs,Carbon source,Hydrothermal,25.3,Leaf,E. coli ,15.0,256.0,130.0,Unknown,Gram-negative,Unknown,Unknown
+Unknown,2024,Carbon-plant NPs,Carbon source,Hydrothermal,25.3,Leaf,Other,16.0,256.0,130.0,Unknown,Gram-negative,Unknown,Unknown
+Unknown,2024,Carbon-plant NPs,Carbon source,Hydrothermal,25.3,Leaf,Other,18.0,256.0,130.0,Unknown,Gram-positive,Unknown,Unknown
+Unknown,2024,Carbon-plant NPs,Carbon source,Hydrothermal,25.3,Leaf,S. aureus ,15.0,256.0,130.0,Unknown,Gram-positive,Unknown,Unknown
+Unknown,2024,Carbon-plant NPs,Carbon source,Hydrothermal,25.3,Leaf,Other,13.0,256.0,130.0,Unknown,Gram-positive,Unknown,Unknown
+https://doi.org/10.1016/j.cej.2024.152453,2024,Zinc MOF,Zn salt + MOF linker,Chemical,112.62,Unknown,E. coli ,,768.0,130.0,No,Gram-negative,Unknown,Unknown
+https://doi.org/10.1016/j.cej.2024.152453,2024,Zinc MOF,Zn salt + MOF linker,Chemical,112.62,Unknown,E. coli ,16.0,768.0,130.0,Yes,Gram-negative,Unknown,Unknown
+https://doi.org/10.1016/j.cej.2024.152453,2024,Zinc MOF,Zn salt + MOF linker,Chemical,112.62,Unknown,S. aureus ,20.0,256.0,130.0,No,Gram-positive,Unknown,Unknown
+https://doi.org/10.1016/j.cej.2024.152453,2024,Zinc MOF,Zn salt + MOF linker,Chemical,112.62,Unknown,S. aureus ,23.0,256.0,130.0,Yes,Gram-positive,Unknown,Unknown
+https://doi.org/10.1016/j.cej.2024.152453,2024,M-NP@MOF,Zn salt + MOF linker,Chemical,101.36,Unknown,E. coli ,29.0,128.0,130.0,No,Gram-negative,Unknown,Unknown
+https://doi.org/10.1016/j.cej.2024.152453,2024,M-NP@MOF,Zn salt + MOF linker,Chemical,101.36,Unknown,E. coli ,35.0,128.0,130.0,Yes,Gram-negative,Unknown,Unknown
+https://doi.org/10.1016/j.cej.2024.152453,2024,M-NP@MOF,Zn salt + MOF linker,Chemical,101.36,Unknown,S. aureus ,28.0,64.0,130.0,No,Gram-positive,Unknown,Unknown
+https://doi.org/10.1016/j.cej.2024.152453,2024,M-NP@MOF,Zn salt + MOF linker,Chemical,101.36,Unknown,S. aureus ,40.0,64.0,130.0,Yes,Gram-positive,Unknown,Unknown
+https://doi.org/10.1016/j.cej.2024.152453,2024,M-NP@MOF,Zn salt + MOF linker,Chemical,101.36,Unknown,E. coli ,,256.0,130.0,Unknown,Gram-negative,Unknown,Unknown
+https://doi.org/10.1016/j.cej.2024.152453,2024,M-NP@MOF,Zn salt + MOF linker,Chemical,25.3,Unknown,S. aureus ,,256.0,130.0,Unknown,Gram-positive,Unknown,Unknown
+https://doi.org/10.1016/j.cej.2024.152453,2024,M-NP@MOF,Zn salt + MOF linker,Chemical,25.3,Unknown,E. coli ,,256.0,130.0,Unknown,Gram-negative,Unknown,Unknown
+https://doi.org/10.1016/j.cej.2024.152453,2024,M-NP@MOF,Zn salt + MOF linker,Chemical,25.3,Unknown,S. aureus ,,256.0,130.0,Unknown,Gram-positive,Unknown,Unknown
+10.1016/j.heliyon.2020.e03231,2020,Zinc MOF,Zn salt + MOF linker,Other,97.0,Unknown,S. aureus ,17.0,250.0,130.0,Unknown,Gram-positive,Unknown,Unknown
+10.1016/j.heliyon.2020.e03231,2020,Zinc MOF,Zn salt + MOF linker,Other,97.0,Unknown,Other,16.0,500.0,130.0,Unknown,Gram-positive,Unknown,Unknown
+10.1016/j.heliyon.2020.e03231,2020,Zinc MOF,Zn salt + MOF linker,Other,97.0,Unknown,Other,11.0,1000.0,130.0,Unknown,Gram-negative,Unknown,Unknown
+10.1016/j.heliyon.2020.e03231,2020,Zinc MOF,Zn salt + MOF linker,Other,97.0,Unknown,Other,9.7,500.0,130.0,Unknown,Gram-negative,Unknown,Unknown
+10.1016/j.heliyon.2020.e03231,2020,Zinc MOF,Zn salt + MOF linker,Other,97.0,Unknown,Other,9.7,500.0,130.0,Unknown,Gram-negative,Unknown,Unknown
+10.1016/j.heliyon.2020.e03231,2020,Zinc MOF,Zn salt + MOF linker,Other,97.0,Unknown,E. coli ,8.6,1000.0,130.0,Unknown,Gram-negative,Unknown,Unknown
+10.1038/s41598-020-64419-0,2020,ZnO NPs,Zn salt + Plant extract,Co-precipitation,21.05,Leaf,P. aeruginosa ,0.0,256.0,130.0,Unknown,Gram-negative,Unknown,Yes
+10.1038/s41598-020-64419-0,2020,ZnO NPs,Zn salt + Plant extract,Co-precipitation,21.05,Leaf,Other,9.0,256.0,130.0,Unknown,Gram-negative,Unknown,No
+10.1038/s41598-020-64419-0,2020,ZnO NPs,Zn salt + Plant extract,Co-precipitation,21.05,Leaf,S. aureus ,10.0,256.0,130.0,Unknown,Gram-positive,Unknown,No
+10.1038/s41598-020-64419-0,2020,ZnO NPs,Zn salt + Plant extract,Co-precipitation,21.05,Leaf,Other,10.0,256.0,130.0,Unknown,Gram-negative,Unknown,No
+10.1038/s41598-020-64419-0,2020,ZnO NPs,Zn salt + Plant extract,Co-precipitation,21.05,Leaf,Other,8.0,256.0,130.0,Unknown,Gram-positive,MRSA,No
+10.1038/s41598-020-64419-0,2020,ZnO NPs,Zn salt + Plant extract,Co-precipitation,21.05,Leaf,E. coli ,10.0,256.0,130.0,Unknown,Gram-negative,Unknown,No
+10.1038/s41598-020-64419-0,2020,Ag NPs,Ag salt + Plant extract,Co-precipitation,30.13,Leaf,P. aeruginosa ,13.0,256.0,130.0,Unknown,Gram-negative,Unknown,No
+10.1038/s41598-020-64419-0,2020,Ag NPs,Ag salt + Plant extract,Co-precipitation,30.13,Leaf,Other,14.0,256.0,130.0,Unknown,Gram-negative,Unknown,No
+10.1038/s41598-020-64419-0,2020,Ag NPs,Ag salt + Plant extract,Co-precipitation,30.13,Leaf,S. aureus ,16.0,256.0,130.0,Unknown,Gram-positive,Unknown,No
+10.1038/s41598-020-64419-0,2020,Ag NPs,Ag salt + Plant extract,Co-precipitation,30.13,Leaf,Other,19.0,256.0,130.0,Unknown,Gram-negative,Unknown,No
+10.1038/s41598-020-64419-0,2020,Ag NPs,Ag salt + Plant extract,Co-precipitation,30.13,Leaf,Other,16.0,256.0,130.0,Unknown,Gram-positive,MRSA,No
+10.1038/s41598-020-64419-0,2020,Ag NPs,Ag salt + Plant extract,Co-precipitation,30.13,Leaf,E. coli ,14.0,256.0,130.0,Unknown,Gram-negative,Unknown,No
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,27.4,Leaf,E. coli ,,62.5,62.5,Yes,Gram-negative,multidrug-resistant,Unknown
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,27.4,Leaf,Other,,125.0,125.0,Yes,Gram-negative,multidrug-resistant,Unknown
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,27.4,Leaf,P. aeruginosa ,,125.0,125.0,Yes,Gram-negative,multidrug-resistant,Unknown
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,27.4,Leaf,Other,,125.0,125.0,Yes,Gram-negative,multidrug-resistant,Unknown
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,27.4,Leaf,Other,,62.5,62.5,Yes,Gram-negative,multidrug-resistant,Unknown
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,27.4,Leaf,S. aureus ,,125.0,125.0,Yes,Gram-negative,Methicillin,Unknown
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,25.3,Leaf,E. coli ,,125.0,125.0,Yes,Gram-negative,multidrug-resistant,Unknown
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,25.3,Leaf,Other,,125.0,125.0,Yes,Gram-negative,multidrug-resistant,Unknown
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,25.3,Leaf,P. aeruginosa ,,125.0,125.0,Yes,Gram-negative,multidrug-resistant,Unknown
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,25.3,Leaf,Other,,125.0,125.0,Yes,Gram-negative,multidrug-resistant,Unknown
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,25.3,Leaf,Other,,62.5,62.5,Yes,Gram-negative,multidrug-resistant,Unknown
+10.1038/s41598-024-75147-0,2024,Others,Cu salt + Plant extract,Green Synthesis,25.3,Leaf,S. aureus ,,125.0,125.0,Yes,Gram-positive,Methicillin,Unknown
+10.1016/j.micpath.2020.104172,2020,Others,Ag + Plant Extract,Green Synthesis,21.48,Seed,P. aeruginosa ,,30.0,130.0,Unknown,Gram-negative,Unknown,Unknown
+10.1016/j.micpath.2020.104172,2020,Others,Ag + Plant Extract,Green Synthesis,21.48,Seed,Other,,10.0,130.0,Unknown,Gram-negative,Unknown,Unknown
+10.1016/j.micpath.2020.104172,2020,Others,Ag + Plant Extract,Green Synthesis,21.48,Seed,Other,,20.0,130.0,Unknown,Gram-negative,Unknown,Unknown
+10.3109/21691401.2016.1160403,2017,Others,Ag + Plant Extract,Green Synthesis,121.5,Root,S. aureus ,15.0,15.0,130.0,Unknown,Gram-positive,Unknown,Unknown
+10.3109/21691401.2016.1160403,2017,Others,Ag + Plant Extract,Green Synthesis,121.5,Root,P. aeruginosa ,13.0,15.0,130.0,Unknown,Gram-negative,Unknown,Unknown
+10.1186/s12896-026-01138-w,2026,Others,Ag + Plant Extract,Green Synthesis,10.97,Unknown,P. aeruginosa ,,14.12,28.24,Yes,Gram-negative,multidrug-resistant,Unknown
+10.1186/s12896-026-01138-w,2026,Others,Ag + Plant Extract,Green Synthesis,10.97,Unknown,S. aureus ,,14.12,28.24,Yes,Gram-positive,Methicillin,Unknown
+10.1038/s41598-025-00005-6,2025,Others,Ag + Plant Extract,Green Synthesis,70.0,Unknown,P. aeruginosa ,,4.0,16.0,Unknown,Gram-negative,multidrug-resistant,Unknown
+10.1038/s41598-025-00005-6,2025,Others,Ag + Plant Extract,Green Synthesis,70.0,Unknown,Other,,8.0,16.0,Unknown,Gram-positive,multidrug-resistant,Unknown
+10.22052/JNS.2026.01.054,2026,Others,Cu salt + Plant extract,Green Synthesis,22.5,Leaf,S. aureus ,27.4,7.8,130.0,Unknown,Gram-positive,Multidrug-resistant,Unknown
+10.22052/JNS.2026.01.054,2026,Others,Cu salt + Plant extract,Green Synthesis,22.5,Leaf,S. aureus ,27.0,15.6,130.0,Unknown,Gram-positive,Multidrug-resistant,Unknown
+10.22052/JNS.2026.01.054,2026,Others,Cu salt + Plant extract,Green Synthesis,22.5,Leaf,S. aureus ,21.0,7.8,130.0,Unknown,Gram-positive,Multidrug-resistant,Unknown
+10.1021/acsanm.4c04319,2024,ZIF-8,Zn salt + MOF linker,Chemical,67.5,Unknown,E. coli ,,625.0,2500.0,Yes,Gram-negative,Unknown,Unknown
+10.1021/acsanm.4c04319,2024,ZIF-8,Zn salt + MOF linker,Chemical,67.5,Unknown,S. aureus ,,625.0,2500.0,Yes,Gram-positive,Unknown,Unknown
+10.1021/acsanm.4c04319,2024,Others,Others,Chemical,950.0,Unknown,E. coli ,,625.0,5000.0,Yes,Gram-negative,Unknown,Unknown
+10.1021/acsanm.4c04319,2024,Others,Others,Chemical,950.0,Unknown,S. aureus ,,625.0,2500.0,Yes,Gram-positive,Unknown,Unknown
+10.1021/acsanm.4c04319,2024,Others,Others,Chemical,25.3,Unknown,E. coli ,,1250.0,5000.0,Yes,Gram-negative,Unknown,Unknown
+10.1021/acsanm.4c04319,2024,Others,Others,Chemical,25.3,Unknown,S. aureus ,,1250.0,5000.0,Yes,Gram-positive,Unknown,Unknown
+10.1021/acsanm.4c04319,2024,Others,Others,Chemical,25.3,Unknown,E. coli ,,1250.0,10000.0,Yes,Gram-negative,Unknown,Unknown
+10.1021/acsanm.4c04319,2024,Others,Others,Chemical,25.3,Unknown,S. aureus ,,1250.0,10000.0,Yes,Gram-positive,Unknown,Unknown
+10.1021/acsanm.4c04319,2024,Others,Others,Chemical,110.0,Unknown,E. coli ,,5000.0,130.0,Yes,Gram-negative,Unknown,Unknown
+10.1021/acsanm.4c04319,2024,Others,Others,Chemical,110.0,Unknown,S. aureus ,,5000.0,130.0,Yes,Gram-positive,Unknown,Unknown
+10.1016/j.molstruc.2021.131315,2021,Zinc MOF,Zn salt + MOF linker,Chemical,59.0,Unknown,S. aureus ,13.46,64.0,128.0,NR,Gram-positive,Unknown,Unknown
+10.1016/j.molstruc.2021.131315,2021,Zinc MOF,Zn salt + MOF linker,Chemical,59.0,Unknown,Other,15.34,32.0,28.0,NR,Gram-positive,Unknown,Unknown
+10.1016/j.molstruc.2021.131315,2021,Zinc MOF,Zn salt + MOF linker,Chemical,59.0,Unknown,Other,14.16,512.0,1024.0,NR,Gram-positive,Unknown,Unknown
+10.1016/j.molstruc.2021.131315,2021,Zinc MOF,Zn salt + MOF linker,Chemical,59.0,Unknown,Other,12.75,256.0,512.0,NR,Gram-negative,Unknown,Unknown
+10.1016/j.molstruc.2021.131315,2021,Zinc MOF,Zn salt + MOF linker,Chemical,59.0,Unknown,Other,12.9,64.0,128.0,NR,Gram-negative,Unknown,Unknown
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,25.3,Unknown,Other,14.3,256.0,512.0,Unknown,Gram-negative,Unknown,Unknown
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,25.3,Unknown,Other,11.1,1024.0,2048.0,Unknown,Gram-positive,Unknown,Unknown
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,25.3,Unknown,Other,13.4,64.0,128.0,Unknown,Gram-negative,Unknown,Unknown
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,25.3,Unknown,Other,17.5,32.0,64.0,Unknown,Gram-positive,Unknown,Unknown
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,25.3,Unknown,Other,14.9,128.0,256.0,Unknown,Gram-positive,Unknown,Unknown
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,25.3,Unknown,Other,12.3,512.0,1024.0,Unknown,Gram-negative,Unknown,Unknown
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,25.3,Unknown,E. coli ,17.7,128.0,256.0,Unknown,Gram-negative,Unknown,Unknown
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,25.3,Unknown,Other,17.6,64.0,128.0,Unknown,Gram-negative,Unknown,Unknown
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,25.3,Unknown,Other,,256.0,130.0,Unknown,Gram-negative,Unknown,Unknown
+10.1007/s10904-024-03078-4,2024,Zinc MOF,Zn salt + MOF linker,Chemical,25.3,Unknown,Other,17.8,128.0,256.0,Unknown,Gram-negative,Unknown,Unknown
+10.1007/s10904-024-03078-4,2024,MOF/Drug/Polymer Composite,MOF + Antibiotic + Biopolymer,Chemical,25.3,Unknown,Other,17.3,32.0,32.0,Unknown,Gram-positive,Unknown,Unknown
+10.1007/s10904-024-03078-4,2024,MOF/Drug/Polymer Composite,MOF + Antibiotic + Biopolymer,Chemical,25.3,Unknown,Other,22.7,2.0,4.0,Unknown,Gram-negative,Unknown,Unknown
+10.1007/s10904-024-03078-4,2024,MOF/Drug/Polymer Composite,MOF + Antibiotic + Biopolymer,Chemical,25.3,Unknown,Other,18.9,4.0,8.0,Unknown,Gram-positive,Unknown,Unknown
+10.1007/s10904-024-03078-4,2024,MOF/Drug/Polymer Composite,MOF + Antibiotic + Biopolymer,Chemical,25.3,Unknown,Other,15.5,64.0,128.0,Unknown,Gram-positive,Unknown,Unknown
+10.1007/s10904-024-03078-4,2024,MOF/Drug/Polymer Composite,MOF + Antibiotic + Biopolymer,Chemical,25.3,Unknown,Other,20.4,4.0,8.0,Unknown,Gram-positive,Unknown,Unknown
+10.1007/s10904-024-03078-4,2024,MOF/Drug/Polymer Composite,MOF + Antibiotic + Biopolymer,Chemical,25.3,Unknown,E. coli ,20.1,8.0,16.0,Unknown,Gram-negative,Unknown,Unknown
+10.1007/s10904-024-03078-4,2024,MOF/Drug/Polymer Composite,MOF + Antibiotic + Biopolymer,Chemical,25.3,Unknown,Other,19.0,16.0,16.0,Unknown,Gram-negative,Unknown,Unknown
+10.1007/s10904-024-03078-4,2024,MOF/Drug/Polymer Composite,MOF + Antibiotic + Biopolymer,Chemical,25.3,Unknown,Other,16.9,16.0,32.0,Unknown,Gram-negative,Unknown,Unknown
+10.1038/s41598-026-42070-5,2024,Others,Others,Chemical,25.3,Unknown,Other,,600000.0,800000.0,Unknown,Gram-positive,Unknown,Unknown
+10.3390/ijms241411439,2023,Others,Biopolymer,Ionic Getlation,25.3,Unknown,E. coli ,,3300.0,130.0,NR,Gram-negative,Unknown,Unknown
+10.3390/ijms241411439,2023,Zinc MOF,Zn salt + MOF linker,Co-precipitation,25.3,Unknown,E. coli ,,830.0,130.0,NR,Gram-negative,Unknown,Unknown
+10.3390/ijms241411439,2023,Zinc MOF,MOF + Antibiotic + Biopolymer,Co-precipitation,25.3,Unknown,E. coli ,,670.0,130.0,NR,Gram-negative,Unknown,Unknown
+10.3390/ijms241411439,2023,Zinc MOF,MOF + Antibiotic + Biopolymer,Co-precipitation,25.3,Unknown,E. coli ,,330.0,130.0,NR,Gram-negative,Unknown,Unknown
+10.3390/ijms241411439,2023,Zinc MOF,MOF + Antibiotic + Biopolymer,Co-precipitation,25.3,Unknown,E. coli ,,250.0,130.0,NR,Gram-negative,Unknown,Unknown
+10.3390/ijms241411439,2023,Others,Biopolymer,Ionic Getlation,25.3,Unknown,S. aureus ,,5300.0,130.0,NR,Gram-positive,Unknown,Unknown
+10.3390/ijms241411439,2023,Zinc MOF,Zn salt + MOF linker,Co-precipitation,25.3,Unknown,S. aureus ,,1670.0,130.0,NR,Gram-positive,Unknown,Unknown
+10.3390/ijms241411439,2023,Zinc MOF,MOF + Antibiotic + Biopolymer,Co-precipitation,25.3,Unknown,S. aureus ,,830.0,130.0,NR,Gram-positive,Unknown,Unknown
+10.3390/ijms241411439,2023,Zinc MOF,MOF + Antibiotic + Biopolymer,Co-precipitation,25.3,Unknown,S. aureus ,,410.0,130.0,NR,Gram-positive,Unknown,Unknown
+10.3390/ijms241411439,2023,Zinc MOF,MOF + Antibiotic + Biopolymer,Co-precipitation,25.3,Unknown,S. aureus ,,330.0,130.0,NR,Gram-positive,Unknown,Unknown
+10.1016/j.ijbiomac.2025.141175,2025,ZIF-8,Zn salt + MOF linker,Green Synthesis,25.3,Unknown,E. coli ,22.0,256.0,130.0,NR,Gram-negative,Unknown,Unknown
+10.1016/j.ijbiomac.2025.141176,2025,ZIF-8,Zn salt + MOF linker,Green Synthesis,25.3,Unknown,S. aureus ,20.0,256.0,130.0,NR,Gram-positive,Unknown,Unknown
+10.1016/j.jece.2020.104590,2020,ZIF-8,Zn salt + MOF linker,Co-precipitation,200.0,Unknown,S. aureus ,13.0,19.5,19.5,NR,Gram-positive,Unknown,No
+10.1016/j.jece.2020.104591,2020,ZIF-8,Zn salt + MOF linker,Co-precipitation,200.0,Unknown,E. coli ,8.0,156.2,156.2,NR,Gram-negative,Unknown,No
+10.1039/d5ma00177c,2025,ZIF-8,Zn salt + MOF linker + Other,Co-precipitation,90.0,Unknown,E. coli ,12.0,256.0,130.0,Yes,Gram-negative,Unknown,Unknown
+10.1039/d5ma00177c,2025,ZIF-8,Zn salt + MOF linker + Other,Co-precipitation,25.0,Unknown,S. aureus ,17.7,256.0,130.0,Yes,Gram-positive,Unknown,Unknown
+10.1039/d5ma00177c,2025,ZIF-8,Zn salt + MOF linker + Other,Co-precipitation,150.0,Unknown,E. coli ,21.7,256.0,130.0,Yes,Gram-negative,Unknown,Unknown
+10.1039/d5ma00177c,2025,ZIF-8,Zn salt + MOF linker + Other,Co-precipitation,150.0,Unknown,S. aureus ,30.7,256.0,130.0,Yes,Gram-positive,Unknown,Unknown
